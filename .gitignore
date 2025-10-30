@@ -140,7 +140,7 @@ gen-external-apklibs
 # NDK
 obj/
 
-# IntelliJ IDEA
+# Intelli IDEA
 *.iml
 *.iws
 /out/
